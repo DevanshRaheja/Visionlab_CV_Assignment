@@ -173,12 +173,3 @@ If it returns False, ensure the runtime is configured with a GPU.
 #### PyTorch Documentation
 # License
 This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
-
-
-## Key Notes for the `README.md`:
-- **Installation**: Simple steps for setting up the environment.
-- **Model Setup and Dataset Preparation**: Guides to ensure paths and models are correctly set up.
-- **Inference and Visualization**: Clear steps on running predictions and visualizing results.
-- **Troubleshooting**: Covers common errors such as file paths, CUDA issues, and size mismatches with actionable solutions.
-
-This `README.md` can serve as a clear guide for anyone cloning your repository and getting started with pedestrian detection using the DINO model.
