@@ -1,3 +1,7 @@
+# Link to my resume 
+
+https://drive.google.com/file/d/1dohL8kJuwcIDdErecK7U-lUsucAwN269/view?usp=drivesdk
+
 # Pedestrian Detection with DINO
 This repository contains code and resources for pedestrian detection using the DINO model. The model is trained for object detection and tested on a custom pedestrian dataset. This README walks through setup, running inference, visualization of the results, and troubleshooting.
 
